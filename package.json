@@ -1,0 +1,16 @@
+{
+  "name": "icon-fonts-starter349967ffef6fd634a93c6b20215ba68e0582362bde6326c6bd7ec9597e859b58",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.1.1",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0"
+  }
+}
